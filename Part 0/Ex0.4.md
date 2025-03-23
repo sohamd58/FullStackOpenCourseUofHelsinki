@@ -1,4 +1,4 @@
-::: mermaid
+'''mermaid
 sequenceDiagram
     participant user
     participant browser
@@ -38,6 +38,3 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser updates the UI to display the new note
-
-
-:::
