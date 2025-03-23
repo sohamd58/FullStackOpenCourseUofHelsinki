@@ -1,4 +1,4 @@
-::: mermaid
+'''mermaid
 sequenceDiagram
     participant user
     participant browser
@@ -28,4 +28,4 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser dynamically renders the notes from JSON
-:::
+    
